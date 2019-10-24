@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactGameX-0.git/static/css/main.237160ce.chunk.css",
+    "main.js": "/ReactGameX-0.git/static/js/main.ce90c075.chunk.js",
+    "main.js.map": "/ReactGameX-0.git/static/js/main.ce90c075.chunk.js.map",
+    "runtime-main.js": "/ReactGameX-0.git/static/js/runtime-main.7cac52f7.js",
+    "runtime-main.js.map": "/ReactGameX-0.git/static/js/runtime-main.7cac52f7.js.map",
+    "static/js/2.b75a87f9.chunk.js": "/ReactGameX-0.git/static/js/2.b75a87f9.chunk.js",
+    "static/js/2.b75a87f9.chunk.js.map": "/ReactGameX-0.git/static/js/2.b75a87f9.chunk.js.map",
+    "index.html": "/ReactGameX-0.git/index.html",
+    "precache-manifest.d40bc982d84943c0b91e857cc333458f.js": "/ReactGameX-0.git/precache-manifest.d40bc982d84943c0b91e857cc333458f.js",
+    "service-worker.js": "/ReactGameX-0.git/service-worker.js",
+    "static/css/main.237160ce.chunk.css.map": "/ReactGameX-0.git/static/css/main.237160ce.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cac52f7.js",
+    "static/js/2.b75a87f9.chunk.js",
+    "static/css/main.237160ce.chunk.css",
+    "static/js/main.ce90c075.chunk.js"
+  ]
+}
